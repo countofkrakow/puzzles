@@ -4,6 +4,7 @@
 # Higher number increase precision of results, but also slow down the runtime
 # time complexity is O(precision^players)
 
+# The current settings of precision 100 and 4 players takes 5-10 minutes to run on my home pc
 precision = 100
 players = 4
 
